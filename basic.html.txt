@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+<body>
+<<<<<<< .mine
+ii this is akram ane nenu
+=======
+ii this is akki akram
+>>>>>>> .r17
+</body>
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+<p>this is deve2</p>
+
+</body>
+<body>
+<<<<<<< .mine
+hi tis is akki ane nenu </body>
+=======
+hi tis is akki akramj</body>
+>>>>>>> .r17
+</html>
+<<<<<<< .mine
+bbbbbbbbbbbbbbb=======
+aaaaaaaaaa>>>>>>> .r21
